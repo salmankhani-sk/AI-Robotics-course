@@ -124,12 +124,31 @@ AI-Robotics-course/
 
 ---
 
-## 🚀 Next Steps
+## 🚀 What's Coming Next
 
-- **Week 2**: Object-Oriented Programming (OOP in Python)
-- **Week 3**: File handling and modules
-- **Week 4**: Introduction to Libraries (NumPy, Pandas)
-- Continue building your Python skills!
+After mastering Python fundamentals in Week 1, you'll progress through an exciting journey:
+
+**Immediate Next (Week 2-3):**
+- Master Object-Oriented Programming (OOP) concepts
+- Build advanced data structures and algorithms
+- Learn version control with Git
+- Basic web development and cloud computing
+
+**Core AI Topics (Week 3-7):**
+- Machine Learning algorithms (Regression, Classification, SVM, Neural Networks)
+- Computer Vision and image processing
+- Natural Language Processing (NLP)
+- Deep Learning with CNNs, RNNs, and GANs
+
+**Robotics & Advanced Topics (Week 8-12):**
+- Robotics control and kinematics
+- Reinforcement Learning applications in robotics
+- Deep Reinforcement Learning (DRL)
+- Robot perception with sensors (LiDAR, Cameras, Depth sensors)
+- SLAM (Simultaneous Localization and Mapping)
+
+**Capstone (Final Project):**
+- Build a complete AI-driven autonomous robot combining all learned concepts!
 
 ---
 
@@ -169,14 +188,23 @@ If you have questions or face any issues:
 
 ---
 
-## 🎓 Course Progress Tracker
+## 🎓 Complete Course Curriculum (12 Weeks)
 
-| Week | Topic | Status |
-|------|-------|--------|
-| Week 1 | Foundation of Python | ✅ **COMPLETED** |
-| Week 2 | Object-Oriented Programming | ⏳ Coming Soon |
-| Week 3 | File Handling & Modules | ⏳ Coming Soon |
-| Week 4 | Python Libraries | ⏳ Coming Soon |
+| Week | Module Title | Key Topics | Task | Status |
+|------|---|---|---|---|
+| **Week 1** | **Introduction to AI and Robotics** | Course Intro, History of AI/Robotics, Current Applications, Programming Fundamentals, ML Intro, Computer Vision | Build a Simple Robot | ✅ **COMPLETED** |
+| Week 2 | Programming Fundamentals | Success Stories, OOP, Data Structures, Algorithms, Version Control (Git), Web Development, Cloud Computing | Basic Coding for Robot Control | ⏳ Coming Soon |
+| Week 3 | Machine Learning Basics | Multivariate Linear Regression, Logistic Regression, SVM, Decision Trees, Neural Networks, Deep Learning Intro | Implement ML Model | ⏳ Coming Soon |
+| Week 4 | Computer Vision | Image Processing, Edge Detection, Object Recognition, Object Tracking, Segmentation, 3D Computer Vision | Real-time Object Detection & Tracking | ⏳ Coming Soon |
+| Week 5 | Natural Language Processing | Text Preprocessing, NER, Word Embeddings, Sentiment Analysis, Topic Modeling, Machine Translation | Build a Chatbot | ⏳ Coming Soon |
+| Week 6 | Reinforcement Learning | MDPs, Value Iteration, TD Learning, Q-Learning, Policy Gradient, Multi-Agent RL | Maze Navigation with RL | ⏳ Coming Soon |
+| Week 7 | Deep Learning Basics | ANNs, CNNs, RNNs, LSTM, Autoencoders, VAEs, GANs, Transfer Learning | Implement DL Object Recognition | ⏳ Coming Soon |
+| Week 8 | Robotics Control | Kinematics, Dynamics, Trajectory Planning, Motion Planning, Robot Arm Control | Robotic Arm Control Program | ⏳ Coming Soon |
+| Week 9 | Reinforcement Learning for Robotics | RL for Robotics, Q-Learning, Policy Gradients, Multi-Agent RL, Industry Case Studies | RL-Based Robot Task Learning | ⏳ Coming Soon |
+| Week 10 | Advanced Computer Vision | Object Detection, Semantic Segmentation, Generative Models, Video Understanding, 3D Vision | Real-time Object Detection & Tracking | ⏳ Coming Soon |
+| Week 11 | Deep Reinforcement Learning | DRL Frameworks, DQN, Policy Gradients, A3C, Exploration Strategies, Games (Atari, AlphaGo) | Complex Task Learning with DRL | ⏳ Coming Soon |
+| Week 12 | Robotics Perception | Sensors in Robotics, Depth Perception, LiDAR, Point Cloud Processing, SLAM, Autonomous Systems | LiDAR & SLAM Room Mapping | ⏳ Coming Soon |
+| **Final** | **Capstone Project** | Combining all learned concepts to build a complete AI-driven autonomous robot | **Complete AI-Driven Robot** | 🚀 Ultimate Goal |
 
 ---
 
