@@ -192,7 +192,7 @@ If you have questions or face any issues:
 
 | Week | Module Title | Key Topics | Task | Status |
 |------|---|---|---|---|
-| **Week 1** | **Introduction to AI and Robotics** | Course Intro, History of AI/Robotics, Current Applications, Programming Fundamentals, ML Intro, Computer Vision | Build a Simple Robot | ✅ **COMPLETED** |
+| **Week 1** | **Introduction to AI and Robotics** | Course Intro, History of AI/Robotics, Current Applications, Programming Fundamentals, ML Intro, Computer Vision | Suggest a robotics projects and python foundation practice | ✅ **COMPLETED** |
 | Week 2 | Programming Fundamentals | Success Stories, OOP, Data Structures, Algorithms, Version Control (Git), Web Development, Cloud Computing | Basic Coding for Robot Control | ⏳ Coming Soon |
 | Week 3 | Machine Learning Basics | Multivariate Linear Regression, Logistic Regression, SVM, Decision Trees, Neural Networks, Deep Learning Intro | Implement ML Model | ⏳ Coming Soon |
 | Week 4 | Computer Vision | Image Processing, Edge Detection, Object Recognition, Object Tracking, Segmentation, 3D Computer Vision | Real-time Object Detection & Tracking | ⏳ Coming Soon |
