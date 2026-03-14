@@ -1,4 +1,4 @@
-# 🤖 AI & Robotics Course
+# AI & Robotics Course
 
 Welcome to the **AI & Robotics Course**! This is your comprehensive guide to learning Artificial Intelligence and Robotics from the ground up.
 
@@ -16,7 +16,7 @@ This course is designed to provide you with a strong foundation in AI and Roboti
 
 ---
 
-## ✅ Week 1 Completed - Foundation of Python
+##  Week 1 Completed - Foundation of Python
 
 Congratulations! You've completed **Week 1**, covering the **Foundation of Python**. Here's what you've learned:
 
@@ -71,13 +71,13 @@ Congratulations! You've completed **Week 1**, covering the **Foundation of Pytho
 
 After completing Week 1, you should be able to:
 
-✅ Write Python variables and use different data types
-✅ Use operators to perform calculations and comparisons
-✅ Create and manipulate data structures (lists, tuples, sets, dictionaries)
-✅ Build programs with conditional logic and loops
-✅ Write reusable functions to organize your code
-✅ Handle errors gracefully with exception handling
-✅ Use lambda functions for simple operations
+ Write Python variables and use different data types
+ Use operators to perform calculations and comparisons
+ Create and manipulate data structures (lists, tuples, sets, dictionaries)
+ Build programs with conditional logic and loops
+ Write reusable functions to organize your code
+ Handle errors gracefully with exception handling
+ Use lambda functions for simple operations
 
 ---
 
@@ -124,7 +124,7 @@ AI-Robotics-course/
 
 ---
 
-## 🚀 What's Coming Next
+##  What's Coming Next
 
 After mastering Python fundamentals in Week 1, you'll progress through an exciting journey:
 
@@ -154,7 +154,7 @@ After mastering Python fundamentals in Week 1, you'll progress through an exciti
 
 ## 💡 Important Reminders
 
-### Do's ✅
+### Do's 
 - Practice coding every day
 - Experiment by modifying example code
 - Read error messages carefully
@@ -188,7 +188,7 @@ If you have questions or face any issues:
 
 ---
 
-## 🎓 Complete Course Curriculum (12 Weeks)
+##  Complete Course Curriculum (12 Weeks)
 
 | Week | Module Title | Key Topics | Task | Status |
 |------|---|---|---|---|
@@ -204,11 +204,11 @@ If you have questions or face any issues:
 | Week 10 | Advanced Computer Vision | Object Detection, Semantic Segmentation, Generative Models, Video Understanding, 3D Vision | Real-time Object Detection & Tracking | ⏳ Coming Soon |
 | Week 11 | Deep Reinforcement Learning | DRL Frameworks, DQN, Policy Gradients, A3C, Exploration Strategies, Games (Atari, AlphaGo) | Complex Task Learning with DRL | ⏳ Coming Soon |
 | Week 12 | Robotics Perception | Sensors in Robotics, Depth Perception, LiDAR, Point Cloud Processing, SLAM, Autonomous Systems | LiDAR & SLAM Room Mapping | ⏳ Coming Soon |
-| **Final** | **Capstone Project** | Combining all learned concepts to build a complete AI-driven autonomous robot | **Complete AI-Driven Robot** | 🚀 Ultimate Goal |
+| **Final** | **Capstone Project** | Combining all learned concepts to build a complete AI-driven autonomous robot | **Complete AI-Driven Robot** |  Ultimate Goal |
 
 ---
 
 **Last Updated**: March 15, 2026
-**Course Instructor**: [Your Name]
+**Salman Khan**
 
-Welcome to your AI & Robotics journey! Happy coding! 🚀
+Welcome to your AI & Robotics journey! 
